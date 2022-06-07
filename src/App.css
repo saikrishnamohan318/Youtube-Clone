@@ -1,0 +1,35 @@
+.input-group {
+  width: 40%;
+  margin: 10px auto;
+}
+.btn {
+  padding: 0 30px;
+  font-size: 20px;
+}
+#leftbox {
+  float: left;
+  width: 65%;
+  padding: 20px 80px;
+}
+#rightbox {
+  float: right;
+  width: 35%;
+}
+h4 {
+  margin-top: 20px;
+}
+li {
+  list-style-type: none;
+  padding-left: 30px;
+  padding-top: 20px;
+  height: 100px;
+}
+li:hover {
+  cursor: pointer;
+}
+h6 {
+  width: 50%;
+  position: relative;
+  left: 130px;
+  bottom: 90px;
+}
